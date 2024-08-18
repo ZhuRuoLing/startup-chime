@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# Startup Chime
 
-## Setup
+Set a start chime for your game!
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+[Demonstration here](https://www.bilibili.com/video/BV1zopfeEEjC)
 
-## License
+## HOW TO USE
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+- Install this mod to your game
+- Launch Minecraft and shut it down
+- A directory named `startup_chime` will appear in your `.minecraft` folder
+- Put a `chime.ogg` sound file into `startup_chime` folder, the chime.ogg file can be any sound you want to play at game startup
+- Launch Minecraft again
